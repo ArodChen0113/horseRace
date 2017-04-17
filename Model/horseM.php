@@ -1,5 +1,5 @@
 <?php
-class horseC
+class horseM
 {
     public function __construct()
     {

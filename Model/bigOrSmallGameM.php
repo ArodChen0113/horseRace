@@ -1,6 +1,6 @@
 <?php
 
-class bigOrSmallGameC
+class bigOrSmallGameM
 {
     public function __construct()
     {
@@ -16,18 +16,8 @@ class bigOrSmallGameC
     {
 
     }
-    //大小單雙遊戲派彩控制
+    //大小單雙遊戲派彩資料修改
     public function bsRaceBonus(){
-
-    }
-    //大小遊戲賽果運算(bigger or smaller)
-    public function bsRaceResult()
-    {
-
-    }
-    //單雙遊戲賽果運算(Single or double)
-    public function sdRaceResult()
-    {
 
     }
 }

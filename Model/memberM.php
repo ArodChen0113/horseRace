@@ -1,5 +1,5 @@
 <?php
-class memberC
+class memberM
 {
     public function __construct()
     {

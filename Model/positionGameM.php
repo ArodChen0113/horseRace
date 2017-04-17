@@ -1,18 +1,13 @@
 <?php
 
-class positionGameC
+class positionGameM
 {
     public function __construct()
     {
 
     }
-    //定位賽馬遊戲派彩控制
+    //定位賽馬遊戲派彩資料修改
     public function pgRaceBonus(){
-
-    }
-    //定位賽馬遊戲賽果運算
-    public function pgRaceResult()
-    {
 
     }
 }

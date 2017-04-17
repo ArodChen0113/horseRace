@@ -16,4 +16,9 @@ class positionGameC
     {
 
     }
+    //定位賽馬遊戲賽果運算
+    public function pgRaceResult()
+    {
+
+    }
 }

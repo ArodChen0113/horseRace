@@ -16,4 +16,14 @@ class bigOrSmallGameC
     {
 
     }
+    //大小遊戲賽果運算(bigger or smaller)
+    public function bsRaceResult()
+    {
+
+    }
+    //單雙遊戲賽果運算(Single or double)
+    public function sdRaceResult()
+    {
+
+    }
 }

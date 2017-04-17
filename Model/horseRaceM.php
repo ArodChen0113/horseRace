@@ -1,6 +1,6 @@
 <?php
 
-class horseRaceC
+class horseRaceM
 {
     public function __construct()
     {
