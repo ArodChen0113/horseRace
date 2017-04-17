@@ -26,8 +26,4 @@ class horseRaceC
     public function raceOddsShow(){
 
     }
-    //賠率修改
-    public function raceOddsUpdate(){
-
-    }
 }
